@@ -1,0 +1,27 @@
+{ 
+"master": {
+	"password": "123456789"
+} 
+ "list" :
+	{ "credentials":[ 
+			{
+			"username":"entered_username",
+			"pwd": "obj_pwd",
+			"url": "http://www.gmail.com",
+			"note":"entered_note"
+			}
+			{
+			"username":"entered_username",
+			"pwd": "obj_pwd",
+			"url": "http://www.yahoo.com",
+			"note":"entered_note"
+			}
+			{
+			"username":"entered_username",
+			"pwd": "obj_pwd",
+			"url": "http://www.gmail.com",
+			"note":"entered_note"
+			}
+		]
+	}
+}
